@@ -1,0 +1,75 @@
+CREATE TABLE fish (
+  fish_id int(11) NOT NULL,
+  common_name varchar(50) NOT NULL,
+  latin_name varchar(50) NOT NULL,
+  price double NOT NULL
+);
+
+INSERT INTO fish (fish_id, common_name, latin_name, price) VALUES
+(1, 'Flame Angelfish', 'Centropyge loricula', 44.99),
+(2, 'Copperband Butterflyfish', 'Chelmon rostratus', 29.99),
+(3, 'Kaudern''s Cardinal', 'Pterapogon kauderni', 14.99),
+(4, 'Porcupine Puffer', 'Diodon holocanthus', 34.99),
+(5, 'Maroon Clownfish', 'Premnas biaculeatus', 23.99),
+(6, 'Garden Eel', 'Taenioconger hassi', 34.99),
+(7, 'Miles Lionfish', 'Pterois miles', 34.99),
+(8, 'Black Banded Cat Shark', 'Chiloscyllium punctatum', 59.99),
+(9, 'Tiger-Tail Seahorse', 'Hippocampus comes', 34.99),
+(10, 'Blue Tang', 'Paracanthurus hepatus', 29.99),
+(11, 'Crown Tail Betta', 'Betta splendens', 4.49),
+(12, 'Green Discus', 'Symphysodon aequifasciata', 109.99),
+(13, 'Angelicus Botia Loach', 'Botia angelicus', 23.99),
+(14, 'Neon Tetra Jumbo', 'Paracheirodon innesi', 1.89);
+
+CREATE TABLE tank (
+  tank_number int(11) NOT NULL,
+  water_type varchar(20) NOT NULL,
+  size varchar(50) NOT NULL
+);
+
+INSERT INTO tank (tank_number, water_type, size) VALUES
+(1, 'Fresh Water', '40 gallons'),
+(2, 'Fresh Water', '100 gallons'),
+(3, 'Fresh Water', '150 gallons'),
+(4, 'Fresh Water', '75 gallons'),
+(5, 'Salt Water', '50 gallons'),
+(6, 'Salt Water', '100 gallons'),
+(7, 'Salt Water', '100 gallons'),
+(8, 'Salt Water', '150 gallons'),
+(9, 'Salt Water', '175 gallons'),
+(10, 'Salt Water', '200 gallons');
+
+CREATE TABLE tank_fish (
+  fish_id int(11) NOT NULL,
+  tank_number int(11) NOT NULL,
+  quantity int(11) NOT NULL
+);
+
+INSERT INTO tank_fish (fish_id, tank_number, quantity) VALUES
+(1, 6, 2),
+(1, 8, 4),
+(1, 10, 1),
+(2, 7, 5),
+(2, 8, 2),
+(2, 9, 6),
+(3, 6, 2),
+(3, 9, 10),
+(4, 10, 13),
+(5, 6, 2),
+(5, 7, 2),
+(5, 8, 3),
+(5, 9, 1),
+(6, 7, 2),
+(7, 6, 1),
+(7, 8, 1),
+(8, 9, 2),
+(8, 10, 3),
+(9, 6, 2),
+(9, 7, 5),
+(11, 1, 1),
+(12, 2, 10),
+(12, 3, 2),
+(13, 2, 15),
+(13, 4, 10),
+(14, 3, 7),
+(14, 4, 8);

@@ -1,0 +1,240 @@
+﻿----> DATABASE QUERIES
+
+#SELECT COUNT(*) FROM student 
+
+----> will count number of rows in database
+
+#SELECT COUNT(*) FROM fees WHERE due > 4000 ;
+
+----> will return number of student where due fees is greater 4000 
+
+----> inner join will only return comman elements from both student and fees table 
+
+#SELECT student.name,student.ph_no,fees.due FROM fees INNER JOIN student ON student.sid = fees.sid;
+
+---->  left join will return all the data from left ( fees ) table and comman data from right (student) table
+
+#SELECT student.name,student.ph_no,fees.due FROM fees LEFT JOIN student ON student.sid = fees.sid;
+ 
+----> right join will return all the data from right ( student ) table and comman data from left ( fees ) table 
+
+#SELECT student.name,student.ph_no,fees.due FROM fees RIGHT JOIN student ON student.sid = fees.sid;
+ 
+ 
+----> views are created when we need to fire same type of query every time so we create tempraroy view table 
+
+#CREATE VIEW fees_status AS SELECT fees.sid,student.name,student.ph_no,fees.due FROM fees JOIN student ON student.sid=fees.sid ;
+
+----> let's see fees_status 
+
+#SELECT * FROM fees_status;
+
+----> to drop view use command DROP VIEW fees_status 
+
+----> let's update update fees table 
+
+#SELECT * FROM fees;
+
+#UPDATE fees SET due=due-3000 WHERE sid=1006;;
+
+#SELECT * FROM fees ;
+
+----> you will see  change in fees_status
+
+#SELECT * FROM fees_status 
+
+----> now we have update our view 
+
+#UPDATE fees_status SET due=due-1500 WHERE sid=1003;
+
+----> this will reflect in your main table 
+
+#SELECT * FROM fees;.
+
+----> SQL aggregate functions
+
+----> AVG – calculates the average of a set of values.
+----> COUNT – counts rows in a specified table or view.
+----> MIN – gets the minimum value in a set of values.
+----> MAX – gets the maximum value in a set of values.
+----> SUM – calculates the sum of values.
+
+#SELECT AVG(due) FROM fees;
+
+#SELECT COUNT(sid) FROM student;
+
+#SELECT MIN(fees) FROM fees;
+
+#SELECT MAX(fees) FROM fees;
+
+#SELECT SUM(due) FROM fees;
+
+----> now limit your output to show only 5 rows 
+
+#SELECT * FROM student LIMIT 5; 
+
+----> to group data from your dataset with similar columns 
+
+#SELECT COUNT(sid),due FROM fees GROUP BY due;
+
+----> order by is used to sort your database 
+
+#SELECT * FROM fees ORDER BY due;
+
+----> for decresing order 
+
+#SELECT * FROM fees ORDER BY due DESC;
+
+----> you can also sort your data with two columns 
+
+#SELECT * FROM fees ORDER BY due,fees;
+
+----> it will first sort according to due fees and after will sort according fees
+
+----> Pattern Matching 
+----> % - The percent sign represents zero, one, or multiple characters
+----> _ - The underscore represents a single character
+
+#SELECT * FROM student WHERE name LIKE "%chin%";
+
+----> will show all student name starts from r 
+
+#SELECT * FROM student WHERE name LIKE "r%" ;
+
+----> in operator in sql 
+ 
+#SELECT student.sid,student.name,address.city FROM address JOIN student ON 
+student.sid = address.sid WHERE address.city IN ('jaipur','udaipur');
+
+----> same as we have not in operator 
+
+#SELECT student.sid,student.name,address.city FROM address JOIN student ON 
+student.sid = address.sid WHERE address.city NOT IN ('jaipur','udaipur');
+
+----> between operator in sql 
+
+#SELECT * FROM fees WHERE due BETWEEN 3500 AND 8000;
+
+----> creating aliases 
+
+#SELECT sid AS STUDENT_ID,name AS STUDENT_NAME FROM student;
+
+----> unique selection 
+
+#SELECT DISTINCT fees FROM fees;
+
+----> union operation
+
+#SELECT name FROM student UNION SELECT due from fees;
+
+---->rename a column 
+
+#ALTER student RENAME COLUMN name AS student_name;
+
+----> Let's Save Data into Output file student.dump
+
+#SELECT * FROM student INTO OUTFILE 'C:\\users\\sachin\\desktop\\student.txt';
+
+----> put your path here
+
+----> Writing Data as CSV file 
+
+#SELECT * FROM student INTO OUTFILE 'C:\\users\\sachin\\desktop\\student.csv' FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n' ;
+
+----> OR
+
+#SELECT * FROM student INTO OUTFILE 'C:\\users\\sachin\\desktop\\student.csv' FIELDS TERMINATED BY ',' OPTIONALLY LINES TERMINATED BY '\n' ;
+
+
+-----> write only one row into file no need of column or line termination 
+
+#SELECT * FROM student INTO DUMPFILE 'C:\\users\\sachin\\desktop\\student1.text' ;
+
+----> ignor warning file will we created with one row if you don't want error limit your result with one
+
+#SELECT * FROM student LIMIT 1 INTO DUMPFILE 'C:\\users\\sachin\\desktop\\student1.txt' ;
+
+----> now let's load data from a csv file to database 
+
+----> first create table in which you want to import data 
+
+# CREATE TABLE student_data(sid INT(5) NOT NULL auto_increment, name VARCHAR(50) NOT NULL, ph_no VARCHAR(13) DEFAULT 'NA',email VARCHAR(50) NOT NULL, CONSTRAINT `pk` PRIMARY KEY  (sid) );
+
+
+----> now let's load data from student.csv file
+
+#LOAD DATA INFILE 'c:/users/sachin/desktop/student.csv' INTO TABLE student_data FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' ;
+
+----> verify data in student_data table 
+
+#SELECT * FROM student_data;
+
+----> for taking backup of your database logout from database server and fire this command
+
+#EXIT
+
+#cd c:/xampp/mysql/bin
+
+#mysqldump -u root -p student > c:\users\sachin\Desktop\student.dump
+
+----> to restore your dump into new database follow this command
+
+----> login into database again 
+
+#mysql -u root -p
+
+----> create a new_database where you want to restore your data
+
+#CREATE DATABASE new_database;
+
+----> logout from mysql 
+
+#EXIT
+
+----> COMMAND TO RESTORE DUMP FILE INTO DATABASE 
+
+#mysql -u root -p new_database < c:\users\sachin\Desktop\student.dump
+
+----> let's verify this login into database again 
+
+#mysql -u root -p new_database
+
+#SHOW TABLES; 
+
+#SELECT * FROM student;
+
+----> droping a table if it exists 
+
+#DROP TABLE IF EXISTS student_data;
+
+----> create a table if not exists
+
+#CREATE TABLE IF NOT EXISTS student(id INT(5) NOT NULL PRIMARY KEY,name VARCHAR(50));
+
+---->to delete a user use following commands 
+
+#drop user student@localhost;
+#flush privileges;
+
+----> for microsoft workbench follow this link 
+
+---->*** https://programminghistorian.org/en/lessons/getting-started-with-mysql-using-r ---->***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

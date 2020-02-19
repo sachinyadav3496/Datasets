@@ -1,0 +1,997 @@
+date,Team_1,Team_2,Winner,Margin,Ground
+4-Jan-10,Bangladesh,Sri Lanka,Sri Lanka,7 wickets,Dhaka
+5-Jan-10,India,Sri Lanka,Sri Lanka,5 wickets,Dhaka
+7-Jan-10,Bangladesh,India,India,6 wickets,Dhaka
+8-Jan-10,Bangladesh,Sri Lanka,Sri Lanka,9 wickets,Dhaka
+10-Jan-10,India,Sri Lanka,India,8 wickets,Dhaka
+11-Jan-10,Bangladesh,India,India,6 wickets,Dhaka
+13-Jan-10,India,Sri Lanka,Sri Lanka,4 wickets,Dhaka
+22-Jan-10,Australia,Pakistan,Australia,5 wickets,Brisbane
+24-Jan-10,Australia,Pakistan,Australia,140 runs,Sydney
+26-Jan-10,Australia,Pakistan,Australia,40 runs,Adelaide
+29-Jan-10,Australia,Pakistan,Australia,135 runs,Perth
+31-Jan-10,Australia,Pakistan,Australia,2 wickets,Perth
+5-Feb-10,New Zealand,Bangladesh,New Zealand,146 runs,Napier
+7-Feb-10,Australia,West Indies,Australia,113 runs,Melbourne
+8-Feb-10,New Zealand,Bangladesh,New Zealand,5 wickets,Dunedin
+9-Feb-10,Australia,West Indies,Australia,8 wickets,Adelaide
+11-Feb-10,New Zealand,Bangladesh,New Zealand,3 wickets,Christchurch
+12-Feb-10,Australia,West Indies,no result,,Sydney
+14-Feb-10,Australia,West Indies,Australia,50 runs,Brisbane
+16-Feb-10,Kenya,Netherlands,Kenya,6 wickets,Nairobi (Gym)
+16-Feb-10,Afghanistan,Canada,Afghanistan,1 run,Sharjah
+18-Feb-10,Kenya,Netherlands,Netherlands,80 runs,Nairobi (Gym)
+18-Feb-10,Afghanistan,Canada,Canada,4 wickets,Sharjah
+19-Feb-10,Australia,West Indies,Australia,125 runs,Melbourne
+21-Feb-10,India,South Africa,India,1 run,Jaipur
+24-Feb-10,India,South Africa,India,153 runs,Gwalior
+27-Feb-10,India,South Africa,South Africa,90 runs,Ahmedabad
+28-Feb-10,Bangladesh,England,England,6 wickets,Dhaka
+2-Mar-10,Bangladesh,England,England,2 wickets,Dhaka
+3-Mar-10,New Zealand,Australia,New Zealand,2 wickets,Napier
+4-Mar-10,West Indies,Zimbabwe,Zimbabwe,2 runs,Providence
+5-Mar-10,Bangladesh,England,England,45 runs,Chittagong
+6-Mar-10,New Zealand,Australia,Australia,12 runs,Auckland
+6-Mar-10,West Indies,Zimbabwe,West Indies,4 wickets,Providence
+9-Mar-10,New Zealand,Australia,Australia,6 wickets,Hamilton
+10-Mar-10,West Indies,Zimbabwe,West Indies,141 runs,Kingstown
+11-Mar-10,New Zealand,Australia,Australia,6 wickets,Auckland
+12-Mar-10,West Indies,Zimbabwe,West Indies,4 wickets,Kingstown
+13-Mar-10,New Zealand,Australia,New Zealand,51 runs,Wellington
+14-Mar-10,West Indies,Zimbabwe,West Indies,4 wickets,Kingstown
+13-Apr-10,West Indies,Canada,West Indies,208 runs,Kingston
+15-Apr-10,West Indies,Ireland,West Indies,6 wickets,Kingston
+22-May-10,West Indies,South Africa,South Africa,66 runs,North Sound
+24-May-10,West Indies,South Africa,South Africa,17 runs,North Sound
+28-May-10,Zimbabwe,India,Zimbabwe,6 wickets,Bulawayo
+28-May-10,West Indies,South Africa,South Africa,67 runs,Roseau
+30-May-10,India,Sri Lanka,India,7 wickets,Bulawayo
+30-May-10,West Indies,South Africa,South Africa,7 wickets,Roseau
+1-Jun-10,Zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Bulawayo
+3-Jun-10,Zimbabwe,India,Zimbabwe,7 wickets,Harare
+3-Jun-10,West Indies,South Africa,South Africa,1 wicket,Port of Spain
+5-Jun-10,India,Sri Lanka,Sri Lanka,6 wickets,Harare
+7-Jun-10,Zimbabwe,Sri Lanka,Zimbabwe,8 wickets,Harare
+9-Jun-10,Zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Harare
+15-Jun-10,Sri Lanka,Pakistan,Sri Lanka,16 runs,Dambulla
+15-Jun-10,Netherlands,Scotland,Netherlands,6 wickets,Rotterdam
+16-Jun-10,Bangladesh,India,India,6 wickets,Dambulla
+17-Jun-10,Ireland,Australia,Australia,39 runs,Dublin
+18-Jun-10,Sri Lanka,Bangladesh,Sri Lanka,126 runs,Dambulla
+19-Jun-10,India,Pakistan,India,3 wickets,Dambulla
+19-Jun-10,Scotland,England,England,7 wickets,Edinburgh
+21-Jun-10,Bangladesh,Pakistan,Pakistan,139 runs,Dambulla
+22-Jun-10,Sri Lanka,India,Sri Lanka,7 wickets,Dambulla
+22-Jun-10,England,Australia,England,4 wickets,Southampton
+24-Jun-10,Sri Lanka,India,India,81 runs,Dambulla
+24-Jun-10,England,Australia,England,4 wickets,Cardiff
+27-Jun-10,England,Australia,England,1 wicket,Manchester
+30-Jun-10,England,Australia,Australia,78 runs,The Oval
+1-Jul-10,Afghanistan,Canada,Afghanistan,6 wickets,The Hague
+1-Jul-10,Ireland,Kenya,Ireland,7 wickets,Rotterdam
+1-Jul-10,Netherlands,Scotland,Scotland,1 wicket,Amstelveen
+"Jul 3-4, 2010",Afghanistan,Ireland,Ireland,39 runs,Rotterdam
+3-Jul-10,Canada,Scotland,Scotland,69 runs,Amstelveen
+3-Jul-10,Netherlands,Kenya,Netherlands,117 runs,The Hague
+3-Jul-10,England,Australia,Australia,42 runs,Lord's
+5-Jul-10,Afghanistan,Kenya,Afghanistan,1 wicket,Amstelveen
+5-Jul-10,Ireland,Scotland,Ireland,5 wickets,The Hague
+5-Jul-10,Netherlands,Canada,Netherlands,7 wickets,Rotterdam
+7-Jul-10,Canada,Ireland,Ireland,5 wickets,Amstelveen
+7-Jul-10,Kenya,Scotland,Scotland,6 runs,Rotterdam
+7-Jul-10,Netherlands,Afghanistan,Afghanistan,6 wickets,The Hague
+8-Jul-10,England,Bangladesh,England,6 wickets,Nottingham
+9-Jul-10,Afghanistan,Scotland,Scotland,2 wickets,Rotterdam
+9-Jul-10,Canada,Kenya,Canada,6 wickets,Schiedam
+9-Jul-10,Netherlands,Ireland,Ireland,39 runs,Amstelveen
+10-Jul-10,Canada,Kenya,Canada,3 wickets,Schiedam
+10-Jul-10,Ireland,Scotland,Ireland,6 wickets,Amstelveen
+10-Jul-10,Netherlands,Afghanistan,Afghanistan,5 wickets,Rotterdam
+10-Jul-10,England,Bangladesh,Bangladesh,5 runs,Bristol
+12-Jul-10,England,Bangladesh,England,144 runs,Birmingham
+15-Jul-10,Ireland,Bangladesh,Ireland,7 wickets,Belfast
+16-Jul-10,Ireland,Bangladesh,Bangladesh,6 wickets,Belfast
+20-Jul-10,Bangladesh,Netherlands,Netherlands,6 wickets,Glasgow
+10-Aug-10,India,New Zealand,New Zealand,200 runs,Dambulla
+13-Aug-10,Sri Lanka,New Zealand,Sri Lanka,3 wickets,Dambulla
+16-Aug-10,Sri Lanka,India,India,6 wickets,Dambulla
+16-Aug-10,Scotland,Afghanistan,Afghanistan,9 wickets,Ayr
+16-Aug-10,Ireland,Netherlands,Ireland,70 runs,Dublin
+17-Aug-10,Scotland,Afghanistan,Scotland,6 wickets,Ayr
+18-Aug-10,Ireland,Netherlands,Ireland,9 wickets,Dublin
+"Aug 19-20, 2010",Sri Lanka,New Zealand,no result,,Dambulla
+22-Aug-10,Sri Lanka,India,Sri Lanka,8 wickets,Dambulla
+25-Aug-10,India,New Zealand,India,105 runs,Dambulla
+28-Aug-10,Sri Lanka,India,Sri Lanka,74 runs,Dambulla
+6-Sep-10,Canada,Ireland,Canada,4 runs,Toronto
+7-Sep-10,Canada,Ireland,Ireland,92 runs,Toronto
+10-Sep-10,England,Pakistan,England,24 runs,Chester-le-Street
+12-Sep-10,England,Pakistan,England,4 wickets,Leeds
+17-Sep-10,England,Pakistan,Pakistan,23 runs,The Oval
+20-Sep-10,England,Pakistan,Pakistan,38 runs,Lord's
+22-Sep-10,England,Pakistan,England,121 runs,Southampton
+26-Sep-10,Zimbabwe,Ireland,Zimbabwe,2 wickets,Harare
+28-Sep-10,Zimbabwe,Ireland,Zimbabwe,3 wickets,Harare
+30-Sep-10,Zimbabwe,Ireland,Ireland,20 runs,Harare
+5-Oct-10,Bangladesh,New Zealand,Bangladesh,9 runs,Dhaka
+7-Oct-10,Kenya,Afghanistan,Kenya,92 runs,Nairobi (Gym)
+9-Oct-10,Kenya,Afghanistan,Afghanistan,6 wickets,Nairobi (Gym)
+11-Oct-10,Bangladesh,New Zealand,Bangladesh,7 wickets,Dhaka
+11-Oct-10,Kenya,Afghanistan,Kenya,8 wickets,Nairobi (Gym)
+14-Oct-10,Bangladesh,New Zealand,Bangladesh,9 runs,Dhaka
+15-Oct-10,South Africa,Zimbabwe,South Africa,64 runs,Bloemfontein
+17-Oct-10,Bangladesh,New Zealand,Bangladesh,3 runs,Dhaka
+17-Oct-10,South Africa,Zimbabwe,South Africa,8 wickets,Potchefstroom
+20-Oct-10,India,Australia,India,5 wickets,Visakhapatnam
+22-Oct-10,South Africa,Zimbabwe,South Africa,272 runs,Benoni
+29-Oct-10,Pakistan,South Africa,South Africa,8 wickets,Abu Dhabi
+31-Oct-10,Pakistan,South Africa,Pakistan,1 wicket,Abu Dhabi
+2-Nov-10,Pakistan,South Africa,South Africa,2 runs,Dubai (DSC)
+3-Nov-10,Australia,Sri Lanka,Sri Lanka,1 wicket,Melbourne
+5-Nov-10,Australia,Sri Lanka,Sri Lanka,29 runs,Sydney
+5-Nov-10,Pakistan,South Africa,Pakistan,1 wicket,Dubai (DSC)
+7-Nov-10,Australia,Sri Lanka,Australia,8 wickets,Brisbane
+8-Nov-10,Pakistan,South Africa,South Africa,57 runs,Dubai (DSC)
+28-Nov-10,India,New Zealand,India,40 runs,Guwahati
+1-Dec-10,Bangladesh,Zimbabwe,Zimbabwe,9 runs,Dhaka
+1-Dec-10,India,New Zealand,India,8 wickets,Jaipur
+3-Dec-10,Bangladesh,Zimbabwe,Bangladesh,6 wickets,Dhaka
+4-Dec-10,India,New Zealand,India,9 wickets,Vadodara
+6-Dec-10,Bangladesh,Zimbabwe,Bangladesh,65 runs,Dhaka
+7-Dec-10,India,New Zealand,India,5 wickets,Bengaluru
+10-Dec-10,India,New Zealand,India,8 wickets,Chennai
+12-Dec-10,Bangladesh,Zimbabwe,Bangladesh,6 wickets,Chittagong
+12-Jan-11,South Africa,India,South Africa,135 runs,Durban
+15-Jan-11,South Africa,India,India,1 run,Johannesburg
+16-Jan-11,Australia,England,Australia,6 wickets,Melbourne
+18-Jan-11,South Africa,India,India,2 wickets,Cape Town
+21-Jan-11,Australia,England,Australia,46 runs,Hobart
+21-Jan-11,South Africa,India,South Africa,48 runs,Port Elizabeth
+22-Jan-11,New Zealand,Pakistan,New Zealand,9 wickets,Wellington
+23-Jan-11,Australia,England,Australia,4 wickets,Sydney
+23-Jan-11,South Africa,India,South Africa,33 runs,Centurion
+26-Jan-11,New Zealand,Pakistan,no result,,Queenstown
+26-Jan-11,Australia,England,England,21 runs,Adelaide
+29-Jan-11,New Zealand,Pakistan,Pakistan,43 runs,Christchurch
+30-Jan-11,Australia,England,Australia,51 runs,Brisbane
+31-Jan-11,Sri Lanka,West Indies,no result,,Colombo (SSC)
+1-Feb-11,New Zealand,Pakistan,Pakistan,2 wickets,Napier
+2-Feb-11,Australia,England,Australia,2 wickets,Sydney
+3-Feb-11,New Zealand,Pakistan,Pakistan,41 runs,Hamilton
+3-Feb-11,Sri Lanka,West Indies,Sri Lanka,8 wickets,Colombo (SSC)
+5-Feb-11,New Zealand,Pakistan,New Zealand,57 runs,Auckland
+6-Feb-11,Australia,England,Australia,57 runs,Perth
+6-Feb-11,Sri Lanka,West Indies,Sri Lanka,26 runs,Colombo (SSC)
+19-Feb-11,Bangladesh,India,India,87 runs,Dhaka
+20-Feb-11,Kenya,New Zealand,New Zealand,10 wickets,Chennai
+20-Feb-11,Sri Lanka,Canada,Sri Lanka,210 runs,Hambantota
+21-Feb-11,Australia,Zimbabwe,Australia,91 runs,Ahmedabad
+22-Feb-11,England,Netherlands,England,6 wickets,Nagpur
+23-Feb-11,Kenya,Pakistan,Pakistan,205 runs,Hambantota
+24-Feb-11,South Africa,West Indies,South Africa,7 wickets,Delhi
+25-Feb-11,Australia,New Zealand,Australia,7 wickets,Nagpur
+25-Feb-11,Bangladesh,Ireland,Bangladesh,27 runs,Dhaka
+26-Feb-11,Sri Lanka,Pakistan,Pakistan,11 runs,Colombo (RPS)
+27-Feb-11,India,England,tied,,Bengaluru
+28-Feb-11,Canada,Zimbabwe,Zimbabwe,175 runs,Nagpur
+28-Feb-11,Netherlands,West Indies,West Indies,215 runs,Delhi
+1-Mar-11,Sri Lanka,Kenya,Sri Lanka,9 wickets,Colombo (RPS)
+2-Mar-11,England,Ireland,Ireland,3 wickets,Bengaluru
+3-Mar-11,Netherlands,South Africa,South Africa,231 runs,Mohali
+3-Mar-11,Canada,Pakistan,Pakistan,46 runs,Colombo (RPS)
+4-Mar-11,New Zealand,Zimbabwe,New Zealand,10 wickets,Ahmedabad
+4-Mar-11,Bangladesh,West Indies,West Indies,9 wickets,Dhaka
+5-Mar-11,Sri Lanka,Australia,no result,,Colombo (RPS)
+6-Mar-11,England,South Africa,England,6 runs,Chennai
+6-Mar-11,India,Ireland,India,5 wickets,Bengaluru
+7-Mar-11,Canada,Kenya,Canada,5 wickets,Delhi
+8-Mar-11,New Zealand,Pakistan,New Zealand,110 runs,Pallekele
+9-Mar-11,India,Netherlands,India,5 wickets,Delhi
+10-Mar-11,Sri Lanka,Zimbabwe,Sri Lanka,139 runs,Pallekele
+11-Mar-11,Ireland,West Indies,West Indies,44 runs,Mohali
+11-Mar-11,Bangladesh,England,Bangladesh,2 wickets,Chittagong
+12-Mar-11,India,South Africa,South Africa,3 wickets,Nagpur
+13-Mar-11,Canada,New Zealand,New Zealand,97 runs,Mumbai
+13-Mar-11,Australia,Kenya,Australia,60 runs,Bengaluru
+14-Mar-11,Bangladesh,Netherlands,Bangladesh,6 wickets,Chittagong
+14-Mar-11,Pakistan,Zimbabwe,Pakistan,7 wickets,Pallekele
+15-Mar-11,Ireland,South Africa,South Africa,131 runs,Kolkata
+16-Mar-11,Australia,Canada,Australia,7 wickets,Bengaluru
+17-Mar-11,England,West Indies,England,18 runs,Chennai
+18-Mar-11,Ireland,Netherlands,Ireland,6 wickets,Kolkata
+18-Mar-11,New Zealand,Sri Lanka,Sri Lanka,112 runs,Mumbai
+19-Mar-11,Bangladesh,South Africa,South Africa,206 runs,Dhaka
+19-Mar-11,Australia,Pakistan,Pakistan,4 wickets,Colombo (RPS)
+20-Mar-11,Kenya,Zimbabwe,Zimbabwe,161 runs,Kolkata
+20-Mar-11,India,West Indies,India,80 runs,Chennai
+23-Mar-11,Pakistan,West Indies,Pakistan,10 wickets,Dhaka
+24-Mar-11,India,Australia,India,5 wickets,Ahmedabad
+25-Mar-11,New Zealand,South Africa,New Zealand,49 runs,Dhaka
+26-Mar-11,Sri Lanka,England,Sri Lanka,10 wickets,Colombo (RPS)
+29-Mar-11,Sri Lanka,New Zealand,Sri Lanka,5 wickets,Colombo (RPS)
+30-Mar-11,India,Pakistan,India,29 runs,Mohali
+2-Apr-11,India,Sri Lanka,India,6 wickets,Mumbai
+9-Apr-11,Bangladesh,Australia,Australia,60 runs,Dhaka
+11-Apr-11,Bangladesh,Australia,Australia,9 wickets,Dhaka
+13-Apr-11,Bangladesh,Australia,Australia,66 runs,Dhaka
+23-Apr-11,West Indies,Pakistan,Pakistan,8 wickets,Gros Islet
+25-Apr-11,West Indies,Pakistan,Pakistan,7 wickets,Gros Islet
+28-Apr-11,West Indies,Pakistan,Pakistan,3 wickets,Bridgetown
+2-May-11,West Indies,Pakistan,West Indies,1 run,Bridgetown
+5-May-11,West Indies,Pakistan,West Indies,10 wickets,Providence
+28-May-11,Ireland,Pakistan,Pakistan,7 wickets,Belfast
+30-May-11,Ireland,Pakistan,Pakistan,5 wickets,Belfast
+6-Jun-11,West Indies,India,India,4 wickets,Port of Spain
+8-Jun-11,West Indies,India,India,7 wickets,Port of Spain
+11-Jun-11,West Indies,India,India,3 wickets,North Sound
+13-Jun-11,West Indies,India,West Indies,103 runs,North Sound
+16-Jun-11,West Indies,India,West Indies,7 wickets,Kingston
+28-Jun-11,Scotland,Netherlands,Scotland,15 runs,Aberdeen
+28-Jun-11,England,Sri Lanka,England,110 runs,The Oval
+29-Jun-11,Scotland,Netherlands,Scotland,5 wickets,Aberdeen
+1-Jul-11,England,Sri Lanka,Sri Lanka,69 runs,Leeds
+3-Jul-11,England,Sri Lanka,Sri Lanka,6 wickets,Lord's
+6-Jul-11,England,Sri Lanka,England,10 wickets,Nottingham
+9-Jul-11,England,Sri Lanka,England,16 runs,Manchester
+12-Jul-11,Scotland,Ireland,Scotland,5 wickets,Edinburgh
+13-Jul-11,Scotland,Sri Lanka,Sri Lanka,183 runs,Edinburgh
+7-Aug-11,Canada,Afghanistan,Afghanistan,2 wickets,King City (NW)
+9-Aug-11,Canada,Afghanistan,Afghanistan,17 runs,Toronto
+10-Aug-11,Sri Lanka,Australia,Australia,7 wickets,Pallekele
+12-Aug-11,Zimbabwe,Bangladesh,Zimbabwe,4 wickets,Harare
+14-Aug-11,Zimbabwe,Bangladesh,Zimbabwe,7 wickets,Harare
+14-Aug-11,Sri Lanka,Australia,Australia,8 wickets,Hambantota
+16-Aug-11,Zimbabwe,Bangladesh,Zimbabwe,5 runs,Harare
+16-Aug-11,Sri Lanka,Australia,Sri Lanka,78 runs,Hambantota
+19-Aug-11,Zimbabwe,Bangladesh,Bangladesh,6 wickets,Bulawayo
+20-Aug-11,Sri Lanka,Australia,Australia,5 wickets,Colombo (RPS)
+21-Aug-11,Zimbabwe,Bangladesh,Bangladesh,93 runs,Bulawayo
+22-Aug-11,Sri Lanka,Australia,Sri Lanka,4 wickets,Colombo (RPS)
+25-Aug-11,Ireland,England,England,11 runs,Dublin
+3-Sep-11,England,India,no result,,Chester-le-Street
+6-Sep-11,England,India,England,7 wickets,Southampton
+8-Sep-11,Zimbabwe,Pakistan,Pakistan,5 runs,Bulawayo
+9-Sep-11,England,India,England,3 wickets,The Oval
+11-Sep-11,Zimbabwe,Pakistan,Pakistan,10 wickets,Harare
+11-Sep-11,England,India,tied,,Lord's
+12-Sep-11,Netherlands,Kenya,Netherlands,2 wickets,The Hague
+13-Sep-11,Netherlands,Kenya,Netherlands,4 wickets,The Hague
+14-Sep-11,Zimbabwe,Pakistan,Pakistan,28 runs,Harare
+16-Sep-11,England,India,England,6 wickets,Cardiff
+19-Sep-11,Ireland,Canada,Ireland,133 runs,Dublin
+20-Sep-11,Ireland,Canada,Ireland,56 runs,Dublin
+13-Oct-11,Bangladesh,West Indies,West Indies,40 runs,Dhaka
+14-Oct-11,India,England,India,126 runs,Hyderabad (Deccan)
+15-Oct-11,Bangladesh,West Indies,West Indies,8 wickets,Dhaka
+17-Oct-11,India,England,India,8 wickets,Delhi
+18-Oct-11,Bangladesh,West Indies,Bangladesh,8 wickets,Chittagong
+19-Oct-11,South Africa,Australia,Australia,93 runs,Centurion
+20-Oct-11,Zimbabwe,New Zealand,New Zealand,9 wickets,Harare
+20-Oct-11,India,England,India,5 wickets,Mohali
+22-Oct-11,Zimbabwe,New Zealand,New Zealand,4 wickets,Harare
+23-Oct-11,India,England,India,6 wickets,Mumbai
+23-Oct-11,South Africa,Australia,South Africa,80 runs,Port Elizabeth
+25-Oct-11,Zimbabwe,New Zealand,Zimbabwe,1 wicket,Bulawayo
+25-Oct-11,India,England,India,95 runs,Kolkata
+28-Oct-11,South Africa,Australia,Australia,3 wickets,Durban
+11-Nov-11,Pakistan,Sri Lanka,Pakistan,8 wickets,Dubai (DSC)
+14-Nov-11,Pakistan,Sri Lanka,Sri Lanka,25 runs,Dubai (DSC)
+18-Nov-11,Pakistan,Sri Lanka,Pakistan,21 runs,Dubai (DSC)
+20-Nov-11,Pakistan,Sri Lanka,Pakistan,26 runs,Sharjah
+23-Nov-11,Pakistan,Sri Lanka,Pakistan,3 wickets,Abu Dhabi
+29-Nov-11,India,West Indies,India,1 wicket,Cuttack
+1-Dec-11,Bangladesh,Pakistan,Pakistan,5 wickets,Dhaka
+2-Dec-11,India,West Indies,India,5 wickets,Visakhapatnam
+3-Dec-11,Bangladesh,Pakistan,Pakistan,76 runs,Dhaka
+5-Dec-11,India,West Indies,West Indies,16 runs,Ahmedabad
+6-Dec-11,Bangladesh,Pakistan,Pakistan,58 runs,Chittagong
+8-Dec-11,India,West Indies,India,153 runs,Indore
+11-Dec-11,India,West Indies,India,34 runs,Chennai
+11-Jan-12,South Africa,Sri Lanka,South Africa,258 runs,Paarl
+14-Jan-12,South Africa,Sri Lanka,South Africa,5 wickets,East London
+17-Jan-12,South Africa,Sri Lanka,South Africa,4 runs,Bloemfontein
+20-Jan-12,South Africa,Sri Lanka,Sri Lanka,5 wickets,Kimberley
+22-Jan-12,South Africa,Sri Lanka,Sri Lanka,2 wickets,Johannesburg
+3-Feb-12,New Zealand,Zimbabwe,New Zealand,90 runs,Dunedin
+5-Feb-12,Australia,India,Australia,65 runs,Melbourne
+6-Feb-12,New Zealand,Zimbabwe,New Zealand,141 runs,Whangarei
+8-Feb-12,India,Sri Lanka,India,4 wickets,Perth
+9-Feb-12,New Zealand,Zimbabwe,New Zealand,202 runs,Napier
+10-Feb-12,Australia,Sri Lanka,Australia,5 runs,Perth
+10-Feb-12,Afghanistan,Pakistan,Pakistan,7 wickets,Sharjah
+12-Feb-12,Australia,India,India,4 wickets,Adelaide
+13-Feb-12,England,Pakistan,England,130 runs,Abu Dhabi
+14-Feb-12,India,Sri Lanka,tied,,Adelaide
+15-Feb-12,England,Pakistan,England,20 runs,Abu Dhabi
+17-Feb-12,Australia,Sri Lanka,Sri Lanka,8 wickets,Sydney
+18-Feb-12,Kenya,Ireland,Kenya,7 wickets,Mombasa
+18-Feb-12,England,Pakistan,England,9 wickets,Dubai (DSC)
+19-Feb-12,Australia,India,Australia,110 runs,Brisbane
+20-Feb-12,Kenya,Ireland,Ireland,117 runs,Mombasa
+21-Feb-12,India,Sri Lanka,Sri Lanka,51 runs,Brisbane
+21-Feb-12,England,Pakistan,England,4 wickets,Dubai (DSC)
+24-Feb-12,Australia,Sri Lanka,Sri Lanka,3 wickets,Hobart
+25-Feb-12,New Zealand,South Africa,South Africa,6 wickets,Wellington
+26-Feb-12,Australia,India,Australia,87 runs,Sydney
+28-Feb-12,India,Sri Lanka,India,7 wickets,Hobart
+29-Feb-12,New Zealand,South Africa,South Africa,6 wickets,Napier
+2-Mar-12,Australia,Sri Lanka,Sri Lanka,9 runs,Melbourne
+3-Mar-12,New Zealand,South Africa,South Africa,5 wickets,Auckland
+4-Mar-12,Australia,Sri Lanka,Australia,15 runs,Brisbane
+6-Mar-12,Australia,Sri Lanka,Sri Lanka,8 wickets,Adelaide
+8-Mar-12,Australia,Sri Lanka,Australia,16 runs,Adelaide
+11-Mar-12,Bangladesh,Pakistan,Pakistan,21 runs,Dhaka
+13-Mar-12,India,Sri Lanka,India,50 runs,Dhaka
+15-Mar-12,Pakistan,Sri Lanka,Pakistan,6 wickets,Dhaka
+16-Mar-12,Bangladesh,India,Bangladesh,5 wickets,Dhaka
+16-Mar-12,West Indies,Australia,Australia,64 runs,Kingstown
+18-Mar-12,India,Pakistan,India,6 wickets,Dhaka
+18-Mar-12,West Indies,Australia,West Indies,5 wickets,Kingstown
+20-Mar-12,Bangladesh,Sri Lanka,Bangladesh,5 wickets,Dhaka
+20-Mar-12,West Indies,Australia,tied,,Kingstown
+22-Mar-12,Bangladesh,Pakistan,Pakistan,2 runs,Dhaka
+23-Mar-12,West Indies,Australia,West Indies,42 runs,Gros Islet
+25-Mar-12,West Indies,Australia,Australia,30 runs,Gros Islet
+29-Mar-12,Afghanistan,Netherlands,Netherlands,9 wickets,Sharjah
+31-Mar-12,Afghanistan,Netherlands,Afghanistan,5 wickets,Sharjah
+7-Jun-12,Sri Lanka,Pakistan,Pakistan,6 wickets,Pallekele
+9-Jun-12,Sri Lanka,Pakistan,Sri Lanka,76 runs,Pallekele
+13-Jun-12,Sri Lanka,Pakistan,no result,,Colombo (RPS)
+16-Jun-12,Sri Lanka,Pakistan,Sri Lanka,44 runs,Colombo (RPS)
+16-Jun-12,England,West Indies,England,114 runs,Southampton
+18-Jun-12,Sri Lanka,Pakistan,Sri Lanka,2 wickets,Colombo (RPS)
+19-Jun-12,England,West Indies,England,8 wickets,The Oval
+23-Jun-12,Ireland,Australia,no result,,Belfast
+29-Jun-12,England,Australia,England,15 runs,Lord's
+1-Jul-12,England,Australia,England,6 wickets,The Oval
+5-Jul-12,Ireland,Afghanistan,Ireland,59 runs,Dublin
+5-Jul-12,West Indies,New Zealand,West Indies,9 wickets,Kingston
+7-Jul-12,England,Australia,England,8 wickets,Chester-le-Street
+7-Jul-12,West Indies,New Zealand,West Indies,55 runs,Kingston
+10-Jul-12,England,Australia,England,7 wickets,Manchester
+"Jul 11-12, 2012",Scotland,Canada,Scotland,4 wickets,Ayr
+11-Jul-12,West Indies,New Zealand,New Zealand,88 runs,Basseterre
+14-Jul-12,West Indies,New Zealand,West Indies,24 runs,Basseterre
+16-Jul-12,West Indies,New Zealand,West Indies,20 runs,Basseterre
+21-Jul-12,Sri Lanka,India,India,21 runs,Hambantota
+24-Jul-12,Sri Lanka,India,Sri Lanka,9 wickets,Hambantota
+28-Jul-12,Sri Lanka,India,India,5 wickets,Colombo (RPS)
+31-Jul-12,Sri Lanka,India,India,6 wickets,Colombo (RPS)
+4-Aug-12,Sri Lanka,India,India,20 runs,Pallekele
+24-Aug-12,England,South Africa,no result,,Cardiff
+25-Aug-12,Afghanistan,Australia,Australia,66 runs,Sharjah
+28-Aug-12,England,South Africa,South Africa,80 runs,Southampton
+28-Aug-12,Australia,Pakistan,Australia,4 wickets,Sharjah
+31-Aug-12,England,South Africa,England,4 wickets,The Oval
+31-Aug-12,Australia,Pakistan,Pakistan,7 wickets,Abu Dhabi
+2-Sep-12,England,South Africa,England,6 wickets,Lord's
+3-Sep-12,Australia,Pakistan,Australia,3 wickets,Sharjah
+5-Sep-12,England,South Africa,South Africa,7 wickets,Nottingham
+4-Nov-12,Sri Lanka,New Zealand,Sri Lanka,14 runs,Pallekele
+6-Nov-12,Sri Lanka,New Zealand,Sri Lanka,7 wickets,Pallekele
+10-Nov-12,Sri Lanka,New Zealand,Sri Lanka,7 wickets,Hambantota
+12-Nov-12,Sri Lanka,New Zealand,no result,,Hambantota
+30-Nov-12,Bangladesh,West Indies,Bangladesh,7 wickets,Khulna
+2-Dec-12,Bangladesh,West Indies,Bangladesh,160 runs,Khulna
+5-Dec-12,Bangladesh,West Indies,West Indies,4 wickets,Dhaka
+7-Dec-12,Bangladesh,West Indies,West Indies,75 runs,Dhaka
+8-Dec-12,Bangladesh,West Indies,Bangladesh,2 wickets,Dhaka
+30-Dec-12,India,Pakistan,Pakistan,6 wickets,Chennai
+3-Jan-13,India,Pakistan,Pakistan,85 runs,Kolkata
+6-Jan-13,India,Pakistan,India,10 runs,Delhi
+11-Jan-13,Australia,Sri Lanka,Australia,107 runs,Melbourne
+11-Jan-13,India,England,England,9 runs,Rajkot
+13-Jan-13,Australia,Sri Lanka,Sri Lanka,8 wickets,Adelaide
+15-Jan-13,India,England,India,127 runs,Kochi
+18-Jan-13,Australia,Sri Lanka,Sri Lanka,4 wickets,Brisbane
+19-Jan-13,India,England,India,7 wickets,Ranchi
+19-Jan-13,South Africa,New Zealand,New Zealand,1 wicket,Paarl
+20-Jan-13,Australia,Sri Lanka,no result,,Sydney
+22-Jan-13,South Africa,New Zealand,New Zealand,27 runs,Kimberley
+23-Jan-13,Australia,Sri Lanka,Australia,32 runs,Hobart
+23-Jan-13,India,England,India,5 wickets,Mohali
+25-Jan-13,South Africa,New Zealand,South Africa,1 wicket,Potchefstroom
+27-Jan-13,India,England,England,7 wickets,Dharamsala
+1-Feb-13,Australia,West Indies,Australia,9 wickets,Perth
+3-Feb-13,Australia,West Indies,Australia,54 runs,Perth
+6-Feb-13,Australia,West Indies,Australia,39 runs,Canberra
+8-Feb-13,Australia,West Indies,Australia,5 wickets,Sydney
+10-Feb-13,Australia,West Indies,Australia,17 runs,Melbourne
+17-Feb-13,New Zealand,England,New Zealand,3 wickets,Hamilton
+20-Feb-13,New Zealand,England,England,8 wickets,Napier
+22-Feb-13,West Indies,Zimbabwe,West Indies,156 runs,St George's
+23-Feb-13,New Zealand,England,England,5 wickets,Auckland
+24-Feb-13,West Indies,Zimbabwe,West Indies,7 wickets,St George's
+26-Feb-13,West Indies,Zimbabwe,West Indies,5 wickets,St George's
+6-Mar-13,Afghanistan,Scotland,Afghanistan,7 wickets,Sharjah
+8-Mar-13,Afghanistan,Scotland,Afghanistan,5 wickets,Sharjah
+10-Mar-13,South Africa,Pakistan,South Africa,125 runs,Bloemfontein
+11-Mar-13,Canada,Kenya,Kenya,6 wickets,ICCA Dubai
+13-Mar-13,Canada,Kenya,Kenya,6 wickets,ICCA Dubai
+15-Mar-13,South Africa,Pakistan,Pakistan,6 wickets,Centurion
+17-Mar-13,South Africa,Pakistan,South Africa,34 runs,Johannesburg
+21-Mar-13,South Africa,Pakistan,Pakistan,3 wickets,Durban
+23-Mar-13,Sri Lanka,Bangladesh,Sri Lanka,8 wickets,Hambantota
+24-Mar-13,South Africa,Pakistan,South Africa,6 wickets,Benoni
+25-Mar-13,Sri Lanka,Bangladesh,no result,,Hambantota
+28-Mar-13,Sri Lanka,Bangladesh,Bangladesh,3 wickets,Pallekele
+3-May-13,Zimbabwe,Bangladesh,Bangladesh,121 runs,Bulawayo
+5-May-13,Zimbabwe,Bangladesh,Zimbabwe,6 wickets,Bulawayo
+8-May-13,Zimbabwe,Bangladesh,Zimbabwe,7 wickets,Bulawayo
+17-May-13,Scotland,Pakistan,Pakistan,96 runs,Edinburgh
+23-May-13,Ireland,Pakistan,tied,,Dublin
+26-May-13,Ireland,Pakistan,Pakistan,2 wickets,Dublin
+31-May-13,Netherlands,South Africa,South Africa,83 runs,Amstelveen
+31-May-13,England,New Zealand,New Zealand,5 wickets,Lord's
+2-Jun-13,England,New Zealand,New Zealand,86 runs,Southampton
+5-Jun-13,England,New Zealand,England,34 runs,Nottingham
+6-Jun-13,India,South Africa,India,26 runs,Cardiff
+7-Jun-13,Pakistan,West Indies,West Indies,2 wickets,The Oval
+8-Jun-13,England,Australia,England,48 runs,Birmingham
+9-Jun-13,New Zealand,Sri Lanka,New Zealand,1 wicket,Cardiff
+10-Jun-13,Pakistan,South Africa,South Africa,67 runs,Birmingham
+11-Jun-13,India,West Indies,India,8 wickets,The Oval
+12-Jun-13,Australia,New Zealand,no result,,Birmingham
+13-Jun-13,England,Sri Lanka,Sri Lanka,7 wickets,The Oval
+14-Jun-13,South Africa,West Indies,tied,,Cardiff
+15-Jun-13,India,Pakistan,India,8 wickets,Birmingham
+16-Jun-13,England,New Zealand,England,10 runs,Cardiff
+17-Jun-13,Australia,Sri Lanka,Sri Lanka,20 runs,The Oval
+19-Jun-13,England,South Africa,England,7 wickets,The Oval
+20-Jun-13,India,Sri Lanka,India,8 wickets,Cardiff
+23-Jun-13,England,India,India,5 runs,Birmingham
+28-Jun-13,West Indies,Sri Lanka,West Indies,6 wickets,Kingston
+30-Jun-13,Scotland,Kenya,Scotland,12 runs,Aberdeen
+30-Jun-13,West Indies,India,West Indies,1 wicket,Kingston
+"Jul 2-3, 2013",Scotland,Kenya,Scotland,4 wickets,Aberdeen
+2-Jul-13,India,Sri Lanka,Sri Lanka,161 runs,Kingston
+5-Jul-13,West Indies,India,India,102 runs,Port of Spain
+7-Jul-13,Netherlands,Ireland,Ireland,88 runs,Amstelveen
+"Jul 7-8, 2013",West Indies,Sri Lanka,Sri Lanka,39 runs,Port of Spain
+9-Jul-13,Netherlands,Ireland,tied,,Amstelveen
+9-Jul-13,India,Sri Lanka,India,81 runs,Port of Spain
+11-Jul-13,India,Sri Lanka,India,1 wicket,Port of Spain
+14-Jul-13,West Indies,Pakistan,Pakistan,126 runs,Providence
+16-Jul-13,West Indies,Pakistan,West Indies,37 runs,Providence
+19-Jul-13,West Indies,Pakistan,tied,,Gros Islet
+20-Jul-13,Sri Lanka,South Africa,Sri Lanka,180 runs,Colombo (RPS)
+21-Jul-13,West Indies,Pakistan,Pakistan,6 wickets,Gros Islet
+23-Jul-13,Sri Lanka,South Africa,Sri Lanka,17 runs,Colombo (RPS)
+24-Jul-13,Zimbabwe,India,India,6 wickets,Harare
+24-Jul-13,West Indies,Pakistan,Pakistan,4 wickets,Gros Islet
+26-Jul-13,Zimbabwe,India,India,58 runs,Harare
+26-Jul-13,Sri Lanka,South Africa,South Africa,56 runs,Pallekele
+28-Jul-13,Zimbabwe,India,India,7 wickets,Harare
+28-Jul-13,Sri Lanka,South Africa,Sri Lanka,8 wickets,Pallekele
+31-Jul-13,Sri Lanka,South Africa,Sri Lanka,128 runs,Colombo (RPS)
+1-Aug-13,Zimbabwe,India,India,9 wickets,Bulawayo
+3-Aug-13,Zimbabwe,India,India,7 wickets,Bulawayo
+27-Aug-13,Zimbabwe,Pakistan,Zimbabwe,7 wickets,Harare
+"Aug 27-28, 2013",Canada,Netherlands,no result,,King City (NW)
+29-Aug-13,Zimbabwe,Pakistan,Pakistan,90 runs,Harare
+29-Aug-13,Canada,Netherlands,Netherlands,9 wickets,King City (NW)
+31-Aug-13,Zimbabwe,Pakistan,Pakistan,108 runs,Harare
+3-Sep-13,Ireland,England,England,6 wickets,Dublin (Malahide)
+3-Sep-13,Scotland,Australia,Australia,200 runs,Edinburgh
+6-Sep-13,Ireland,Scotland,Ireland,1 wicket,Belfast
+8-Sep-13,England,Australia,Australia,88 runs,Manchester
+8-Sep-13,Ireland,Scotland,Ireland,7 wickets,Belfast
+11-Sep-13,England,Australia,no result,,Birmingham
+14-Sep-13,England,Australia,England,3 wickets,Cardiff
+16-Sep-13,England,Australia,Australia,49 runs,Southampton
+2-Oct-13,Afghanistan,Kenya,Afghanistan,8 wickets,Sharjah
+4-Oct-13,Afghanistan,Kenya,Afghanistan,7 wickets,Sharjah
+13-Oct-13,India,Australia,Australia,72 runs,Pune
+16-Oct-13,India,Australia,India,9 wickets,Jaipur
+19-Oct-13,India,Australia,Australia,4 wickets,Mohali
+23-Oct-13,India,Australia,no result,,Ranchi
+29-Oct-13,Bangladesh,New Zealand,Bangladesh,43 runs,Dhaka
+30-Oct-13,India,Australia,India,6 wickets,Nagpur
+30-Oct-13,Pakistan,South Africa,South Africa,1 run,Sharjah
+31-Oct-13,Bangladesh,New Zealand,Bangladesh,40 runs,Dhaka
+1-Nov-13,Pakistan,South Africa,Pakistan,66 runs,Dubai (DSC)
+2-Nov-13,India,Australia,India,57 runs,Bengaluru
+3-Nov-13,Bangladesh,New Zealand,Bangladesh,4 wickets,Fatullah
+6-Nov-13,Pakistan,South Africa,South Africa,68 runs,Abu Dhabi
+8-Nov-13,Pakistan,South Africa,South Africa,28 runs,Abu Dhabi
+10-Nov-13,Sri Lanka,New Zealand,no result,,Hambantota
+11-Nov-13,Pakistan,South Africa,South Africa,117 runs,Sharjah
+12-Nov-13,Sri Lanka,New Zealand,New Zealand,4 wickets,Hambantota
+16-Nov-13,Sri Lanka,New Zealand,Sri Lanka,36 runs,Dambulla
+21-Nov-13,India,West Indies,India,6 wickets,Kochi
+24-Nov-13,India,West Indies,West Indies,2 wickets,Visakhapatnam
+24-Nov-13,South Africa,Pakistan,Pakistan,23 runs,Cape Town
+27-Nov-13,India,West Indies,India,5 wickets,Kanpur
+27-Nov-13,South Africa,Pakistan,Pakistan,1 run,Port Elizabeth
+30-Nov-13,South Africa,Pakistan,South Africa,4 wickets,Centurion
+5-Dec-13,South Africa,India,South Africa,141 runs,Johannesburg
+8-Dec-13,South Africa,India,South Africa,134 runs,Durban
+11-Dec-13,South Africa,India,no result,,Centurion
+18-Dec-13,Pakistan,Sri Lanka,Pakistan,11 runs,Sharjah
+20-Dec-13,Pakistan,Sri Lanka,Sri Lanka,2 wickets,Dubai (DSC)
+22-Dec-13,Pakistan,Sri Lanka,Pakistan,113 runs,Sharjah
+25-Dec-13,Pakistan,Sri Lanka,Pakistan,8 wickets,Abu Dhabi
+26-Dec-13,New Zealand,West Indies,West Indies,2 wickets,Auckland
+27-Dec-13,Pakistan,Sri Lanka,Sri Lanka,2 wickets,Abu Dhabi
+1-Jan-14,New Zealand,West Indies,New Zealand,159 runs,Queenstown
+4-Jan-14,New Zealand,West Indies,New Zealand,58 runs,Nelson
+8-Jan-14,New Zealand,West Indies,West Indies,203 runs,Hamilton
+12-Jan-14,Australia,England,Australia,6 wickets,Melbourne
+17-Jan-14,Australia,England,Australia,1 wicket,Brisbane
+19-Jan-14,New Zealand,India,New Zealand,24 runs,Napier
+19-Jan-14,Australia,England,Australia,7 wickets,Sydney
+22-Jan-14,New Zealand,India,New Zealand,15 runs,Hamilton
+23-Jan-14,Canada,Scotland,Scotland,170 runs,Christchurch
+23-Jan-14,Kenya,Netherlands,Kenya,4 wickets,Lincoln
+24-Jan-14,Australia,England,England,57 runs,Perth
+25-Jan-14,New Zealand,India,tied,,Auckland
+26-Jan-14,Australia,England,Australia,5 runs,Adelaide
+28-Jan-14,Canada,Netherlands,Netherlands,8 wickets,Mount Maunganui
+28-Jan-14,New Zealand,India,New Zealand,7 wickets,Hamilton
+30-Jan-14,Kenya,Scotland,Scotland,3 wickets,Christchurch
+31-Jan-14,New Zealand,India,New Zealand,87 runs,Wellington
+1-Feb-14,Scotland,U.A.E.,Scotland,41 runs,Lincoln
+17-Feb-14,Bangladesh,Sri Lanka,Sri Lanka,13 runs,Dhaka
+20-Feb-14,Bangladesh,Sri Lanka,Sri Lanka,61 runs,Dhaka
+22-Feb-14,Bangladesh,Sri Lanka,Sri Lanka,6 wickets,Dhaka
+23-Feb-14,West Indies,Ireland,West Indies,4 wickets,Kingston
+25-Feb-14,Pakistan,Sri Lanka,Sri Lanka,12 runs,Fatullah
+26-Feb-14,Bangladesh,India,India,6 wickets,Fatullah
+27-Feb-14,Afghanistan,Pakistan,Pakistan,72 runs,Fatullah
+28-Feb-14,India,Sri Lanka,Sri Lanka,2 wickets,Fatullah
+28-Feb-14,West Indies,England,West Indies,15 runs,North Sound
+1-Mar-14,Bangladesh,Afghanistan,Afghanistan,32 runs,Fatullah
+2-Mar-14,India,Pakistan,Pakistan,1 wicket,Dhaka
+2-Mar-14,West Indies,England,England,3 wickets,North Sound
+3-Mar-14,Afghanistan,Sri Lanka,Sri Lanka,129 runs,Dhaka
+4-Mar-14,Bangladesh,Pakistan,Pakistan,3 wickets,Dhaka
+5-Mar-14,Afghanistan,India,India,8 wickets,Dhaka
+5-Mar-14,West Indies,England,England,25 runs,North Sound
+6-Mar-14,Bangladesh,Sri Lanka,Sri Lanka,3 wickets,Dhaka
+8-Mar-14,Pakistan,Sri Lanka,Sri Lanka,5 wickets,Dhaka
+1-May-14,Afghanistan,Hong Kong,Afghanistan,6 wickets,Kuala Lumpur
+2-May-14,Afghanistan,U.A.E.,Afghanistan,70 runs,Kuala Lumpur
+4-May-14,Hong Kong,U.A.E.,U.A.E.,2 wickets,Kuala Lumpur
+6-May-14,Ireland,Sri Lanka,Sri Lanka,79 runs,Dublin
+9-May-14,Scotland,England,England,39 runs,Aberdeen
+22-May-14,England,Sri Lanka,England,81 runs,The Oval
+25-May-14,England,Sri Lanka,Sri Lanka,157 runs,Chester-le-Street
+28-May-14,England,Sri Lanka,England,10 wickets,Manchester
+31-May-14,England,Sri Lanka,Sri Lanka,7 runs,Lord's
+3-Jun-14,England,Sri Lanka,Sri Lanka,6 wickets,Birmingham
+15-Jun-14,Bangladesh,India,India,7 wickets,Dhaka
+17-Jun-14,Bangladesh,India,India,47 runs,Dhaka
+19-Jun-14,Bangladesh,India,no result,,Dhaka
+6-Jul-14,Sri Lanka,South Africa,South Africa,75 runs,Colombo (RPS)
+9-Jul-14,Sri Lanka,South Africa,Sri Lanka,87 runs,Pallekele
+12-Jul-14,Sri Lanka,South Africa,South Africa,82 runs,Hambantota
+18-Jul-14,Zimbabwe,Afghanistan,Zimbabwe,6 wickets,Bulawayo
+20-Jul-14,Zimbabwe,Afghanistan,Zimbabwe,8 wickets,Bulawayo
+22-Jul-14,Zimbabwe,Afghanistan,Afghanistan,2 wickets,Bulawayo
+24-Jul-14,Zimbabwe,Afghanistan,Afghanistan,100 runs,Bulawayo
+17-Aug-14,Zimbabwe,South Africa,South Africa,93 runs,Bulawayo
+19-Aug-14,Zimbabwe,South Africa,South Africa,61 runs,Bulawayo
+20-Aug-14,West Indies,Bangladesh,West Indies,3 wickets,St George's
+21-Aug-14,Zimbabwe,South Africa,South Africa,7 wickets,Bulawayo
+22-Aug-14,West Indies,Bangladesh,West Indies,177 runs,St George's
+23-Aug-14,Sri Lanka,Pakistan,Pakistan,4 wickets,Hambantota
+25-Aug-14,Zimbabwe,Australia,Australia,198 runs,Harare
+25-Aug-14,West Indies,Bangladesh,West Indies,91 runs,Basseterre
+26-Aug-14,Sri Lanka,Pakistan,Sri Lanka,77 runs,Hambantota
+27-Aug-14,Australia,South Africa,South Africa,7 wickets,Harare
+27-Aug-14,England,India,India,133 runs,Cardiff
+29-Aug-14,Zimbabwe,South Africa,South Africa,61 runs,Harare
+30-Aug-14,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Dambulla
+30-Aug-14,England,India,India,6 wickets,Nottingham
+31-Aug-14,Zimbabwe,Australia,Zimbabwe,3 wickets,Harare
+2-Sep-14,Australia,South Africa,Australia,62 runs,Harare
+2-Sep-14,England,India,India,9 wickets,Birmingham
+4-Sep-14,Zimbabwe,South Africa,South Africa,63 runs,Harare
+5-Sep-14,England,India,England,41 runs,Leeds
+6-Sep-14,Australia,South Africa,South Africa,6 wickets,Harare
+8-Sep-14,Ireland,Scotland,Ireland,7 wickets,Dublin (Malahide)
+10-Sep-14,Ireland,Scotland,Ireland,3 wickets,Dublin (Malahide)
+12-Sep-14,Ireland,Scotland,Scotland,8 wickets,Dublin (Malahide)
+7-Oct-14,Australia,Pakistan,Australia,93 runs,Sharjah
+8-Oct-14,India,West Indies,West Indies,124 runs,Kochi
+10-Oct-14,Australia,Pakistan,Australia,5 wickets,Dubai (DSC)
+11-Oct-14,India,West Indies,India,48 runs,Delhi
+12-Oct-14,Australia,Pakistan,Australia,1 run,Abu Dhabi
+17-Oct-14,India,West Indies,India,59 runs,Dharamsala
+21-Oct-14,New Zealand,South Africa,South Africa,6 wickets,Mount Maunganui
+24-Oct-14,New Zealand,South Africa,South Africa,72 runs,Mount Maunganui
+27-Oct-14,New Zealand,South Africa,no result,,Hamilton
+2-Nov-14,India,Sri Lanka,India,169 runs,Cuttack
+6-Nov-14,India,Sri Lanka,India,6 wickets,Ahmedabad
+8-Nov-14,Hong Kong,P.N.G.,P.N.G.,4 wickets,Townsville
+9-Nov-14,Hong Kong,P.N.G.,P.N.G.,3 wickets,Townsville
+9-Nov-14,India,Sri Lanka,India,6 wickets,Hyderabad (Deccan)
+13-Nov-14,India,Sri Lanka,India,153 runs,Kolkata
+14-Nov-14,Australia,South Africa,Australia,32 runs,Perth
+16-Nov-14,Australia,South Africa,South Africa,3 wickets,Perth
+16-Nov-14,India,Sri Lanka,India,3 wickets,Ranchi
+19-Nov-14,Australia,South Africa,Australia,73 runs,Canberra
+21-Nov-14,Australia,South Africa,Australia,3 wickets,Melbourne
+21-Nov-14,Bangladesh,Zimbabwe,Bangladesh,87 runs,Chittagong
+23-Nov-14,Australia,South Africa,Australia,2 wickets,Sydney
+23-Nov-14,Bangladesh,Zimbabwe,Bangladesh,68 runs,Chittagong
+26-Nov-14,Bangladesh,Zimbabwe,Bangladesh,124 runs,Dhaka
+26-Nov-14,Sri Lanka,England,Sri Lanka,25 runs,Colombo (RPS)
+28-Nov-14,Bangladesh,Zimbabwe,Bangladesh,21 runs,Dhaka
+28-Nov-14,U.A.E.,Afghanistan,U.A.E.,5 wickets,ICCA Dubai
+29-Nov-14,Sri Lanka,England,Sri Lanka,8 wickets,Colombo (RPS)
+30-Nov-14,U.A.E.,Afghanistan,U.A.E.,6 wickets,ICCA Dubai
+1-Dec-14,Bangladesh,Zimbabwe,Bangladesh,5 wickets,Dhaka
+2-Dec-14,U.A.E.,Afghanistan,Afghanistan,2 wickets,ICCA Dubai
+3-Dec-14,Sri Lanka,England,England,5 wickets,Hambantota
+4-Dec-14,U.A.E.,Afghanistan,U.A.E.,30 runs,ICCA Dubai
+7-Dec-14,Sri Lanka,England,Sri Lanka,6 wickets,Colombo (RPS)
+8-Dec-14,New Zealand,Pakistan,Pakistan,3 wickets,Dubai (DSC)
+"Dec 10-11, 2014",Sri Lanka,England,England,5 wickets,Pallekele
+12-Dec-14,New Zealand,Pakistan,New Zealand,4 wickets,Sharjah
+13-Dec-14,Sri Lanka,England,Sri Lanka,90 runs,Pallekele
+14-Dec-14,New Zealand,Pakistan,Pakistan,147 runs,Sharjah
+16-Dec-14,Sri Lanka,England,Sri Lanka,87 runs,Colombo (RPS)
+17-Dec-14,New Zealand,Pakistan,New Zealand,7 runs,Abu Dhabi
+19-Dec-14,New Zealand,Pakistan,New Zealand,68 runs,Abu Dhabi
+8-Jan-15,Afghanistan,Scotland,Afghanistan,8 wickets,ICCA Dubai
+10-Jan-15,Afghanistan,Ireland,Ireland,3 wickets,Dubai (DSC)
+11-Jan-15,New Zealand,Sri Lanka,New Zealand,3 wickets,Christchurch
+12-Jan-15,Ireland,Scotland,Ireland,3 wickets,Dubai (DSC)
+14-Jan-15,Afghanistan,Scotland,Scotland,150 runs,Abu Dhabi
+15-Jan-15,New Zealand,Sri Lanka,Sri Lanka,6 wickets,Hamilton
+16-Jan-15,Australia,England,Australia,3 wickets,Sydney
+16-Jan-15,South Africa,West Indies,South Africa,61 runs,Durban
+17-Jan-15,New Zealand,Sri Lanka,no result,,Auckland
+17-Jan-15,Afghanistan,Ireland,Afghanistan,71 runs,Dubai (DSC)
+18-Jan-15,Australia,India,Australia,4 wickets,Melbourne
+18-Jan-15,South Africa,West Indies,South Africa,148 runs,Johannesburg
+19-Jan-15,Ireland,Scotland,no result,,ICCA Dubai
+20-Jan-15,New Zealand,Sri Lanka,New Zealand,4 wickets,Nelson
+20-Jan-15,England,India,England,9 wickets,Brisbane
+21-Jan-15,South Africa,West Indies,South Africa,9 wickets,East London
+23-Jan-15,New Zealand,Sri Lanka,New Zealand,108 runs,Dunedin
+23-Jan-15,Australia,England,Australia,3 wickets,Hobart
+25-Jan-15,New Zealand,Sri Lanka,New Zealand,120 runs,Dunedin
+25-Jan-15,South Africa,West Indies,West Indies,1 wicket,Port Elizabeth
+26-Jan-15,Australia,India,no result,,Sydney
+28-Jan-15,South Africa,West Indies,South Africa,131 runs,Centurion
+29-Jan-15,New Zealand,Sri Lanka,Sri Lanka,34 runs,Wellington
+30-Jan-15,England,India,England,3 wickets,Perth
+31-Jan-15,New Zealand,Pakistan,New Zealand,7 wickets,Wellington
+1-Feb-15,Australia,England,Australia,112 runs,Perth
+3-Feb-15,New Zealand,Pakistan,New Zealand,119 runs,Napier
+14-Feb-15,New Zealand,Sri Lanka,New Zealand,98 runs,Christchurch
+14-Feb-15,Australia,England,Australia,111 runs,Melbourne
+15-Feb-15,South Africa,Zimbabwe,South Africa,62 runs,Hamilton
+15-Feb-15,India,Pakistan,India,76 runs,Adelaide
+16-Feb-15,Ireland,West Indies,Ireland,4 wickets,Nelson
+17-Feb-15,New Zealand,Scotland,New Zealand,3 wickets,Dunedin
+18-Feb-15,Afghanistan,Bangladesh,Bangladesh,105 runs,Canberra
+19-Feb-15,U.A.E.,Zimbabwe,Zimbabwe,4 wickets,Nelson
+20-Feb-15,New Zealand,England,New Zealand,8 wickets,Wellington
+21-Feb-15,Pakistan,West Indies,West Indies,150 runs,Christchurch
+22-Feb-15,Afghanistan,Sri Lanka,Sri Lanka,4 wickets,Dunedin
+22-Feb-15,India,South Africa,India,130 runs,Melbourne
+23-Feb-15,England,Scotland,England,119 runs,Christchurch
+24-Feb-15,West Indies,Zimbabwe,West Indies,73 runs,Canberra
+25-Feb-15,Ireland,U.A.E.,Ireland,2 wickets,Brisbane
+26-Feb-15,Afghanistan,Scotland,Afghanistan,1 wicket,Dunedin
+26-Feb-15,Bangladesh,Sri Lanka,Sri Lanka,92 runs,Melbourne
+27-Feb-15,South Africa,West Indies,South Africa,257 runs,Sydney
+28-Feb-15,New Zealand,Australia,New Zealand,1 wicket,Auckland
+28-Feb-15,India,U.A.E.,India,9 wickets,Perth
+1-Mar-15,England,Sri Lanka,Sri Lanka,9 wickets,Wellington
+1-Mar-15,Pakistan,Zimbabwe,Pakistan,20 runs,Brisbane
+3-Mar-15,Ireland,South Africa,South Africa,201 runs,Canberra
+4-Mar-15,Pakistan,U.A.E.,Pakistan,129 runs,Napier
+4-Mar-15,Australia,Afghanistan,Australia,275 runs,Perth
+5-Mar-15,Bangladesh,Scotland,Bangladesh,6 wickets,Nelson
+6-Mar-15,India,West Indies,India,4 wickets,Perth
+7-Mar-15,Pakistan,South Africa,Pakistan,29 runs,Auckland
+7-Mar-15,Ireland,Zimbabwe,Ireland,5 runs,Hobart
+8-Mar-15,New Zealand,Afghanistan,New Zealand,6 wickets,Napier
+8-Mar-15,Australia,Sri Lanka,Australia,64 runs,Sydney
+9-Mar-15,Bangladesh,England,Bangladesh,15 runs,Adelaide
+10-Mar-15,India,Ireland,India,8 wickets,Hamilton
+11-Mar-15,Scotland,Sri Lanka,Sri Lanka,148 runs,Hobart
+12-Mar-15,South Africa,U.A.E.,South Africa,146 runs,Wellington
+13-Mar-15,New Zealand,Bangladesh,New Zealand,3 wickets,Hamilton
+13-Mar-15,Afghanistan,England,England,9 wickets,Sydney
+14-Mar-15,India,Zimbabwe,India,6 wickets,Auckland
+14-Mar-15,Australia,Scotland,Australia,7 wickets,Hobart
+15-Mar-15,U.A.E.,West Indies,West Indies,6 wickets,Napier
+15-Mar-15,Ireland,Pakistan,Pakistan,7 wickets,Adelaide
+18-Mar-15,South Africa,Sri Lanka,South Africa,9 wickets,Sydney
+19-Mar-15,Bangladesh,India,India,109 runs,Melbourne
+20-Mar-15,Australia,Pakistan,Australia,6 wickets,Adelaide
+21-Mar-15,New Zealand,West Indies,New Zealand,143 runs,Wellington
+24-Mar-15,New Zealand,South Africa,New Zealand,4 wickets,Auckland
+26-Mar-15,Australia,India,Australia,95 runs,Sydney
+29-Mar-15,Australia,New Zealand,Australia,7 wickets,Melbourne
+17-Apr-15,Bangladesh,Pakistan,Bangladesh,79 runs,Dhaka
+19-Apr-15,Bangladesh,Pakistan,Bangladesh,7 wickets,Dhaka
+22-Apr-15,Bangladesh,Pakistan,Bangladesh,8 wickets,Dhaka
+8-May-15,Ireland,England,no result,,Dublin (Malahide)
+26-May-15,Pakistan,Zimbabwe,Pakistan,41 runs,Lahore
+29-May-15,Pakistan,Zimbabwe,Pakistan,6 wickets,Lahore
+31-May-15,Pakistan,Zimbabwe,no result,,Lahore
+9-Jun-15,England,New Zealand,England,210 runs,Birmingham
+12-Jun-15,England,New Zealand,New Zealand,13 runs,The Oval
+14-Jun-15,England,New Zealand,New Zealand,3 wickets,Southampton
+17-Jun-15,England,New Zealand,England,7 wickets,Nottingham
+18-Jun-15,Bangladesh,India,Bangladesh,79 runs,Dhaka
+20-Jun-15,England,New Zealand,England,3 wickets,Chester-le-Street
+21-Jun-15,Bangladesh,India,Bangladesh,6 wickets,Dhaka
+24-Jun-15,Bangladesh,India,India,77 runs,Dhaka
+10-Jul-15,Zimbabwe,India,India,4 runs,Harare
+10-Jul-15,Bangladesh,South Africa,South Africa,8 wickets,Dhaka
+11-Jul-15,Sri Lanka,Pakistan,Pakistan,6 wickets,Dambulla
+12-Jul-15,Zimbabwe,India,India,62 runs,Harare
+12-Jul-15,Bangladesh,South Africa,Bangladesh,7 wickets,Dhaka
+14-Jul-15,Zimbabwe,India,India,83 runs,Harare
+15-Jul-15,Bangladesh,South Africa,Bangladesh,9 wickets,Chittagong
+15-Jul-15,Sri Lanka,Pakistan,Sri Lanka,2 wickets,Pallekele
+19-Jul-15,Sri Lanka,Pakistan,Pakistan,135 runs,Colombo (RPS)
+22-Jul-15,Sri Lanka,Pakistan,Pakistan,7 wickets,Colombo (RPS)
+26-Jul-15,Sri Lanka,Pakistan,Sri Lanka,165 runs,Hambantota
+2-Aug-15,Zimbabwe,New Zealand,Zimbabwe,7 wickets,Harare
+4-Aug-15,Zimbabwe,New Zealand,New Zealand,10 wickets,Harare
+7-Aug-15,Zimbabwe,New Zealand,New Zealand,38 runs,Harare
+19-Aug-15,South Africa,New Zealand,South Africa,20 runs,Centurion
+23-Aug-15,South Africa,New Zealand,New Zealand,8 wickets,Potchefstroom
+26-Aug-15,South Africa,New Zealand,South Africa,62 runs,Durban
+27-Aug-15,Ireland,Australia,Australia,23 runs,Belfast
+3-Sep-15,England,Australia,Australia,59 runs,Southampton
+5-Sep-15,England,Australia,Australia,64 runs,Lord's
+8-Sep-15,England,Australia,England,93 runs,Manchester
+11-Sep-15,England,Australia,England,3 wickets,Leeds
+13-Sep-15,England,Australia,Australia,8 wickets,Manchester
+1-Oct-15,Zimbabwe,Pakistan,Pakistan,131 runs,Harare
+3-Oct-15,Zimbabwe,Pakistan,Zimbabwe,5 runs,Harare
+5-Oct-15,Zimbabwe,Pakistan,Pakistan,7 wickets,Harare
+9-Oct-15,Zimbabwe,Ireland,Zimbabwe,2 wickets,Harare
+11-Oct-15,India,South Africa,South Africa,5 runs,Kanpur
+11-Oct-15,Zimbabwe,Ireland,Zimbabwe,5 wickets,Harare
+13-Oct-15,Zimbabwe,Ireland,Ireland,2 wickets,Harare
+14-Oct-15,India,South Africa,India,22 runs,Indore
+16-Oct-15,Zimbabwe,Afghanistan,Zimbabwe,8 wickets,Bulawayo
+18-Oct-15,Zimbabwe,Afghanistan,Afghanistan,58 runs,Bulawayo
+18-Oct-15,India,South Africa,South Africa,18 runs,Rajkot
+20-Oct-15,Zimbabwe,Afghanistan,Zimbabwe,6 wickets,Bulawayo
+22-Oct-15,Zimbabwe,Afghanistan,Afghanistan,3 wickets,Bulawayo
+22-Oct-15,India,South Africa,India,35 runs,Chennai
+24-Oct-15,Zimbabwe,Afghanistan,Afghanistan,73 runs,Bulawayo
+25-Oct-15,India,South Africa,South Africa,214 runs,Mumbai
+1-Nov-15,Sri Lanka,West Indies,Sri Lanka,1 wicket,Colombo (RPS)
+4-Nov-15,Sri Lanka,West Indies,Sri Lanka,8 wickets,Colombo (RPS)
+7-Nov-15,Bangladesh,Zimbabwe,Bangladesh,145 runs,Dhaka
+7-Nov-15,Sri Lanka,West Indies,Sri Lanka,19 runs,Pallekele
+9-Nov-15,Bangladesh,Zimbabwe,Bangladesh,58 runs,Dhaka
+11-Nov-15,Bangladesh,Zimbabwe,Bangladesh,61 runs,Dhaka
+11-Nov-15,England,Pakistan,Pakistan,6 wickets,Abu Dhabi
+13-Nov-15,England,Pakistan,England,95 runs,Abu Dhabi
+16-Nov-15,U.A.E.,Hong Kong,Hong Kong,89 runs,ICCA Dubai
+17-Nov-15,England,Pakistan,England,6 wickets,Sharjah
+18-Nov-15,U.A.E.,Hong Kong,Hong Kong,136 runs,ICCA Dubai
+20-Nov-15,England,Pakistan,England,84 runs,Dubai (DSC)
+25-Dec-15,Afghanistan,Zimbabwe,Afghanistan,49 runs,Sharjah
+26-Dec-15,New Zealand,Sri Lanka,New Zealand,7 wickets,Christchurch
+28-Dec-15,New Zealand,Sri Lanka,New Zealand,10 wickets,Christchurch
+29-Dec-15,Afghanistan,Zimbabwe,Afghanistan,4 wickets,Sharjah
+31-Dec-15,New Zealand,Sri Lanka,Sri Lanka,8 wickets,Nelson
+2-Jan-16,New Zealand,Sri Lanka,no result,,Nelson
+2-Jan-16,Afghanistan,Zimbabwe,Zimbabwe,117 runs,Sharjah
+4-Jan-16,Afghanistan,Zimbabwe,Zimbabwe,65 runs,Sharjah
+5-Jan-16,New Zealand,Sri Lanka,New Zealand,36 runs,Mount Maunganui
+6-Jan-16,Afghanistan,Zimbabwe,Afghanistan,2 wickets,Sharjah
+12-Jan-16,Australia,India,Australia,5 wickets,Perth
+15-Jan-16,Australia,India,Australia,7 wickets,Brisbane
+17-Jan-16,Australia,India,Australia,3 wickets,Melbourne
+20-Jan-16,Australia,India,Australia,25 runs,Canberra
+23-Jan-16,Australia,India,India,6 wickets,Sydney
+25-Jan-16,New Zealand,Pakistan,New Zealand,70 runs,Wellington
+26-Jan-16,Hong Kong,Scotland,Hong Kong,109 runs,Mong Kok
+31-Jan-16,New Zealand,Pakistan,New Zealand,3 wickets,Auckland
+3-Feb-16,New Zealand,Australia,New Zealand,159 runs,Auckland
+3-Feb-16,South Africa,England,England,39 runs,Bloemfontein
+6-Feb-16,New Zealand,Australia,Australia,4 wickets,Wellington
+6-Feb-16,South Africa,England,England,5 wickets,Port Elizabeth
+8-Feb-16,New Zealand,Australia,New Zealand,55 runs,Hamilton
+9-Feb-16,South Africa,England,South Africa,7 wickets,Centurion
+12-Feb-16,South Africa,England,South Africa,1 wicket,Johannesburg
+14-Feb-16,South Africa,England,South Africa,5 wickets,Cape Town
+3-Jun-16,West Indies,South Africa,West Indies,4 wickets,Providence
+5-Jun-16,West Indies,Australia,Australia,6 wickets,Providence
+7-Jun-16,Australia,South Africa,South Africa,47 runs,Providence
+11-Jun-16,Zimbabwe,India,India,9 wickets,Harare
+11-Jun-16,Australia,South Africa,Australia,36 runs,Basseterre
+13-Jun-16,Zimbabwe,India,India,8 wickets,Harare
+13-Jun-16,West Indies,Australia,West Indies,4 wickets,Basseterre
+15-Jun-16,Zimbabwe,India,India,10 wickets,Harare
+15-Jun-16,West Indies,South Africa,South Africa,139 runs,Basseterre
+16-Jun-16,Ireland,Sri Lanka,Sri Lanka,76 runs,Dublin (Malahide)
+18-Jun-16,Ireland,Sri Lanka,Sri Lanka,136 runs,Dublin (Malahide)
+19-Jun-16,Australia,South Africa,no result,,Bridgetown
+21-Jun-16,England,Sri Lanka,tied,,Nottingham
+21-Jun-16,West Indies,Australia,Australia,6 wickets,Bridgetown
+24-Jun-16,England,Sri Lanka,England,10 wickets,Birmingham
+24-Jun-16,West Indies,South Africa,West Indies,100 runs,Bridgetown
+26-Jun-16,England,Sri Lanka,no result,,Bristol
+26-Jun-16,West Indies,Australia,Australia,58 runs,Bridgetown
+29-Jun-16,England,Sri Lanka,England,6 wickets,The Oval
+2-Jul-16,England,Sri Lanka,England,122 runs,Cardiff
+4-Jul-16,Scotland,Afghanistan,no result,,Edinburgh
+6-Jul-16,Scotland,Afghanistan,Afghanistan,78 runs,Edinburgh
+12-Jul-16,Ireland,Afghanistan,Afghanistan,39 runs,Belfast
+14-Jul-16,Ireland,Afghanistan,Ireland,6 wickets,Belfast
+17-Jul-16,Ireland,Afghanistan,Afghanistan,79 runs,Belfast
+19-Jul-16,Ireland,Afghanistan,Ireland,12 runs,Belfast
+14-Aug-16,Scotland,U.A.E.,Scotland,98 runs,Edinburgh
+16-Aug-16,Scotland,U.A.E.,Scotland,7 wickets,Edinburgh
+18-Aug-16,Ireland,Pakistan,Pakistan,255 runs,Dublin (Malahide)
+21-Aug-16,Sri Lanka,Australia,Australia,3 wickets,Colombo (RPS)
+24-Aug-16,Sri Lanka,Australia,Sri Lanka,82 runs,Colombo (RPS)
+24-Aug-16,England,Pakistan,England,44 runs,Southampton
+27-Aug-16,England,Pakistan,England,4 wickets,Lord's
+28-Aug-16,Sri Lanka,Australia,Australia,2 wickets,Dambulla
+30-Aug-16,England,Pakistan,England,169 runs,Nottingham
+31-Aug-16,Sri Lanka,Australia,Australia,6 wickets,Dambulla
+1-Sep-16,England,Pakistan,England,4 wickets,Leeds
+4-Sep-16,Sri Lanka,Australia,Australia,5 wickets,Pallekele
+4-Sep-16,England,Pakistan,Pakistan,4 wickets,Cardiff
+8-Sep-16,Scotland,Hong Kong,no result,,Edinburgh
+10-Sep-16,Scotland,Hong Kong,Scotland,53 runs,Edinburgh
+25-Sep-16,South Africa,Ireland,South Africa,206 runs,Benoni
+25-Sep-16,Bangladesh,Afghanistan,Bangladesh,7 runs,Dhaka
+27-Sep-16,Australia,Ireland,Australia,9 wickets,Benoni
+28-Sep-16,Bangladesh,Afghanistan,Afghanistan,2 wickets,Dhaka
+30-Sep-16,Pakistan,West Indies,Pakistan,111 runs,Sharjah
+30-Sep-16,South Africa,Australia,South Africa,6 wickets,Centurion
+1-Oct-16,Bangladesh,Afghanistan,Bangladesh,141 runs,Dhaka
+2-Oct-16,South Africa,Australia,South Africa,142 runs,Johannesburg
+2-Oct-16,Pakistan,West Indies,Pakistan,59 runs,Sharjah
+5-Oct-16,Pakistan,West Indies,Pakistan,136 runs,Abu Dhabi
+5-Oct-16,South Africa,Australia,South Africa,4 wickets,Durban
+7-Oct-16,Bangladesh,England,England,21 runs,Dhaka
+9-Oct-16,South Africa,Australia,South Africa,6 wickets,Port Elizabeth
+9-Oct-16,Bangladesh,England,Bangladesh,34 runs,Dhaka
+12-Oct-16,Bangladesh,England,England,4 wickets,Chittagong
+12-Oct-16,South Africa,Australia,South Africa,31 runs,Cape Town
+16-Oct-16,India,New Zealand,India,6 wickets,Dharamsala
+20-Oct-16,India,New Zealand,New Zealand,6 runs,Delhi
+23-Oct-16,India,New Zealand,India,7 wickets,Mohali
+26-Oct-16,India,New Zealand,New Zealand,19 runs,Ranchi
+29-Oct-16,India,New Zealand,India,190 runs,Visakhapatnam
+4-Nov-16,Hong Kong,P.N.G.,Hong Kong,106 runs,Mong Kok
+6-Nov-16,Hong Kong,P.N.G.,P.N.G.,14 runs,Mong Kok
+8-Nov-16,Hong Kong,P.N.G.,Hong Kong,7 wickets,Mong Kok
+14-Nov-16,Zimbabwe,Sri Lanka,Sri Lanka,8 wickets,Harare
+16-Nov-16,Sri Lanka,West Indies,West Indies,62 runs,Harare
+19-Nov-16,Zimbabwe,West Indies,tied,,Bulawayo
+21-Nov-16,Zimbabwe,Sri Lanka,no result,,Bulawayo
+23-Nov-16,Sri Lanka,West Indies,Sri Lanka,1 run,Bulawayo
+25-Nov-16,Zimbabwe,West Indies,Zimbabwe,5 runs,Bulawayo
+27-Nov-16,Zimbabwe,Sri Lanka,Sri Lanka,6 wickets,Bulawayo
+4-Dec-16,Australia,New Zealand,Australia,68 runs,Sydney
+6-Dec-16,Australia,New Zealand,Australia,116 runs,Canberra
+9-Dec-16,Australia,New Zealand,Australia,117 runs,Melbourne
+26-Dec-16,New Zealand,Bangladesh,New Zealand,77 runs,Christchurch
+29-Dec-16,New Zealand,Bangladesh,New Zealand,67 runs,Nelson
+31-Dec-16,New Zealand,Bangladesh,New Zealand,8 wickets,Nelson
+13-Jan-17,Australia,Pakistan,Australia,92 runs,Brisbane
+15-Jan-17,Australia,Pakistan,Pakistan,6 wickets,Melbourne
+15-Jan-17,India,England,India,3 wickets,Pune
+19-Jan-17,Australia,Pakistan,Australia,7 wickets,Perth
+19-Jan-17,India,England,India,15 runs,Cuttack
+22-Jan-17,Australia,Pakistan,Australia,86 runs,Sydney
+22-Jan-17,Hong Kong,Scotland,Hong Kong,7 wickets,Abu Dhabi
+22-Jan-17,India,England,England,5 runs,Kolkata
+24-Jan-17,U.A.E.,Scotland,U.A.E.,4 wickets,Dubai (DSC)
+26-Jan-17,Australia,Pakistan,Australia,57 runs,Adelaide
+26-Jan-17,U.A.E.,Hong Kong,U.A.E.,6 wickets,Dubai (DSC)
+28-Jan-17,South Africa,Sri Lanka,South Africa,8 wickets,Port Elizabeth
+30-Jan-17,New Zealand,Australia,New Zealand,6 runs,Auckland
+1-Feb-17,South Africa,Sri Lanka,South Africa,121 runs,Durban
+4-Feb-17,South Africa,Sri Lanka,South Africa,7 wickets,Johannesburg
+5-Feb-17,New Zealand,Australia,New Zealand,24 runs,Hamilton
+7-Feb-17,South Africa,Sri Lanka,South Africa,40 runs,Cape Town
+10-Feb-17,South Africa,Sri Lanka,South Africa,88 runs,Centurion
+16-Feb-17,Zimbabwe,Afghanistan,Afghanistan,12 runs,Harare
+19-Feb-17,New Zealand,South Africa,South Africa,4 wickets,Hamilton
+19-Feb-17,Zimbabwe,Afghanistan,Afghanistan,54 runs,Harare
+21-Feb-17,Zimbabwe,Afghanistan,Zimbabwe,3 runs,Harare
+22-Feb-17,New Zealand,South Africa,New Zealand,6 runs,Christchurch
+24-Feb-17,Zimbabwe,Afghanistan,Zimbabwe,7 wickets,Harare
+25-Feb-17,New Zealand,South Africa,South Africa,159 runs,Wellington
+26-Feb-17,Zimbabwe,Afghanistan,Afghanistan,106 runs,Harare
+1-Mar-17,New Zealand,South Africa,New Zealand,7 wickets,Hamilton
+2-Mar-17,U.A.E.,Ireland,Ireland,85 runs,ICCA Dubai
+3-Mar-17,West Indies,England,England,45 runs,North Sound
+4-Mar-17,New Zealand,South Africa,South Africa,6 wickets,Auckland
+4-Mar-17,U.A.E.,Ireland,Ireland,8 wickets,ICCA Dubai
+5-Mar-17,West Indies,England,England,4 wickets,North Sound
+9-Mar-17,West Indies,England,England,186 runs,Bridgetown
+15-Mar-17,Afghanistan,Ireland,Afghanistan,30 runs,Greater Noida
+17-Mar-17,Afghanistan,Ireland,Afghanistan,34 runs,Greater Noida
+19-Mar-17,Afghanistan,Ireland,Ireland,6 wickets,Greater Noida
+22-Mar-17,Afghanistan,Ireland,Ireland,3 wickets,Greater Noida
+24-Mar-17,Afghanistan,Ireland,Afghanistan,7 wickets,Greater Noida
+25-Mar-17,Sri Lanka,Bangladesh,Bangladesh,90 runs,Dambulla
+28-Mar-17,Sri Lanka,Bangladesh,no result,,Dambulla
+31-Mar-17,U.A.E.,P.N.G.,U.A.E.,82 runs,Abu Dhabi
+1-Apr-17,Sri Lanka,Bangladesh,Sri Lanka,70 runs,Colombo (SSC)
+2-Apr-17,U.A.E.,P.N.G.,P.N.G.,26 runs,Abu Dhabi
+4-Apr-17,U.A.E.,P.N.G.,U.A.E.,103 runs,Abu Dhabi
+7-Apr-17,West Indies,Pakistan,West Indies,4 wickets,Providence
+9-Apr-17,West Indies,Pakistan,Pakistan,74 runs,Providence
+11-Apr-17,West Indies,Pakistan,Pakistan,6 wickets,Providence
+5-May-17,England,Ireland,England,7 wickets,Bristol
+7-May-17,England,Ireland,England,85 runs,Lord's
+12-May-17,Ireland,Bangladesh,no result,,Dublin (Malahide)
+14-May-17,Ireland,New Zealand,New Zealand,51 runs,Dublin (Malahide)
+17-May-17,Bangladesh,New Zealand,New Zealand,4 wickets,Dublin
+19-May-17,Ireland,Bangladesh,Bangladesh,8 wickets,Dublin (Malahide)
+21-May-17,Ireland,New Zealand,New Zealand,190 runs,Dublin (Malahide)
+24-May-17,Bangladesh,New Zealand,Bangladesh,5 wickets,Dublin
+24-May-17,England,South Africa,England,72 runs,Leeds
+27-May-17,England,South Africa,England,2 runs,Southampton
+29-May-17,England,South Africa,South Africa,7 wickets,Lord's
+1-Jun-17,England,Bangladesh,England,8 wickets,The Oval
+2-Jun-17,Australia,New Zealand,no result,,Birmingham
+3-Jun-17,South Africa,Sri Lanka,South Africa,96 runs,The Oval
+4-Jun-17,India,Pakistan,India,124 runs,Birmingham
+5-Jun-17,Australia,Bangladesh,no result,,The Oval
+6-Jun-17,England,New Zealand,England,87 runs,Cardiff
+7-Jun-17,Pakistan,South Africa,Pakistan,19 runs,Birmingham
+8-Jun-17,India,Sri Lanka,Sri Lanka,7 wickets,The Oval
+9-Jun-17,Bangladesh,New Zealand,Bangladesh,5 wickets,Cardiff
+9-Jun-17,West Indies,Afghanistan,Afghanistan,63 runs,Gros Islet
+10-Jun-17,England,Australia,England,40 runs,Birmingham
+11-Jun-17,India,South Africa,India,8 wickets,The Oval
+11-Jun-17,West Indies,Afghanistan,West Indies,4 wickets,Gros Islet
+12-Jun-17,Pakistan,Sri Lanka,Pakistan,3 wickets,Cardiff
+14-Jun-17,England,Pakistan,Pakistan,8 wickets,Cardiff
+14-Jun-17,West Indies,Afghanistan,no result,,Gros Islet
+15-Jun-17,Bangladesh,India,India,9 wickets,Birmingham
+15-Jun-17,Scotland,Zimbabwe,Scotland,26 runs,Edinburgh
+17-Jun-17,Scotland,Zimbabwe,Zimbabwe,6 wickets,Edinburgh
+18-Jun-17,India,Pakistan,Pakistan,180 runs,The Oval
+23-Jun-17,West Indies,India,no result,,Port of Spain
+25-Jun-17,West Indies,India,India,105 runs,Port of Spain
+30-Jun-17,Sri Lanka,Zimbabwe,Zimbabwe,6 wickets,Galle
+30-Jun-17,West Indies,India,India,93 runs,North Sound
+2-Jul-17,Sri Lanka,Zimbabwe,Sri Lanka,7 wickets,Galle
+2-Jul-17,West Indies,India,West Indies,11 runs,North Sound
+6-Jul-17,Sri Lanka,Zimbabwe,Sri Lanka,8 wickets,Hambantota
+6-Jul-17,West Indies,India,India,8 wickets,Kingston
+8-Jul-17,Sri Lanka,Zimbabwe,Zimbabwe,4 wickets,Hambantota
+10-Jul-17,Sri Lanka,Zimbabwe,Zimbabwe,3 wickets,Hambantota
+20-Aug-17,Sri Lanka,India,India,9 wickets,Dambulla
+24-Aug-17,Sri Lanka,India,India,3 wickets,Pallekele
+27-Aug-17,Sri Lanka,India,India,6 wickets,Pallekele
+31-Aug-17,Sri Lanka,India,India,168 runs,Colombo (RPS)
+3-Sep-17,Sri Lanka,India,India,6 wickets,Colombo (RPS)
+17-Sep-17,India,Australia,India,26 runs,Chennai
+19-Sep-17,England,West Indies,England,7 wickets,Manchester
+21-Sep-17,India,Australia,India,50 runs,Kolkata
+21-Sep-17,England,West Indies,no result,,Nottingham
+24-Sep-17,India,Australia,India,5 wickets,Indore
+24-Sep-17,England,West Indies,England,124 runs,Bristol
+27-Sep-17,England,West Indies,England,6 runs,The Oval
+28-Sep-17,India,Australia,Australia,21 runs,Bengaluru
+29-Sep-17,England,West Indies,England,9 wickets,Southampton
+1-Oct-17,India,Australia,India,7 wickets,Nagpur
+6-Oct-17,P.N.G.,Scotland,Scotland,101 runs,Port Moresby
+8-Oct-17,P.N.G.,Scotland,P.N.G.,5 wickets,Port Moresby
+13-Oct-17,Pakistan,Sri Lanka,Pakistan,83 runs,Dubai (DSC)
+15-Oct-17,South Africa,Bangladesh,South Africa,10 wickets,Kimberley
+16-Oct-17,Pakistan,Sri Lanka,Pakistan,32 runs,Abu Dhabi
+18-Oct-17,South Africa,Bangladesh,South Africa,104 runs,Paarl
+18-Oct-17,Pakistan,Sri Lanka,Pakistan,7 wickets,Abu Dhabi
+20-Oct-17,Pakistan,Sri Lanka,Pakistan,7 wickets,Sharjah
+22-Oct-17,India,New Zealand,New Zealand,6 wickets,Mumbai
+22-Oct-17,South Africa,Bangladesh,South Africa,200 runs,East London
+23-Oct-17,Pakistan,Sri Lanka,Pakistan,9 wickets,Sharjah
+25-Oct-17,India,New Zealand,India,6 wickets,Pune
+29-Oct-17,India,New Zealand,India,6 runs,Kanpur
